@@ -1,0 +1,9 @@
+# Python Libraries
+# Skrip ini sepenuhnya menggunakan modul bawaan standar Python, sehingga tidak perlu menginstall modul via pip.
+
+# System Requirements (Harus sudah terpasang di komputer/OS Anda):
+Python >= 3.8
+PHP >= 8.2 (Syarat wajib untuk Laravel 12)
+Composer >= 2.0
+MySQL Server (XAMPP / Laragon / DB Native)
+Node.js & NPM (Opsional, bawaan jika ingin modifikasi asset Filament)
