@@ -2,6 +2,7 @@
 
 Skrip Python otomatis (`app.py`) untuk mempermudah dan mempercepat *workflow* pembuatan aplikasi/projek berbasis **Laravel 12** yang diintegrasikan dengan **Filament Admin Panel**. 
 Dikembangkan untuk membantu developer melewati proses konfigurasi manual yang panjang (instalasi composer, inisialisasi `.env`, setup database, integrasi auth), serta memfasilitasi pembuatan sistem CRUD secara kilat langsung dari satu pintu terminal.
+Link Tutorial YT: https://youtu.be/PfP2_zsqzwg?si=QbQL92DrGoHAB074
 
 ## 🚀 Fitur Utama
 - **Auto-Installer:** Mengunduh dan menginstal kerangka kerja Laravel 12 dan mengintegrasikan Filament secara efisien.
